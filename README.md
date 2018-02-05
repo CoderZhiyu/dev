@@ -1,1 +1,1 @@
-# This a learn android project 
+# This is a android project 
